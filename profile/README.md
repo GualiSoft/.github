@@ -10,3 +10,7 @@ We deliver highly performant software designed for Developers and __Linux__ user
 # Disclaimer 
 For now all of tools are in very early WIP and are not usable we will deliver as fast as possible. 
 
+# Community 
+We are of course open to community contribution. 
+
+All our projects can be discussed in this Fluxer Community: https://fluxer.gg/SP6of74I
