@@ -4,7 +4,7 @@ GualiSoft is a suite of tools developed around linux and open-source that comple
 # Who we target 
 As users we target Developers that want a fast and efficient workflow without the pressure that a company could take it from them. All our software is licensed under the GPL 3.0 ensuring this software always stays free and open source and that no company or individual could redistribute it as a closed source product and maje profit of the work of volunteers. 
 
-# Our phylosophy
+# Our philosophy
 We belive that everything should not be a chrome skin. Software should be if possible always built in "proper" programming languages to prioritise performance over ease of development. That's why unless absolutely nescessary we will not build desktop applications using web technologies and we will prioritise low-level highly performant languages. 
 
 # What we deliver 
